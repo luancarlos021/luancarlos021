@@ -1,5 +1,4 @@
-### Olá 👋, sou o Luan! <a href="https://www.linkedin.com/in/luan-carlos/"><img align="center" alt="Luan Carlos | Linkedin" width="20px" src="https://raw.githubusercontent.com/devicons/devicon/40cd6bc89a299dc50ac289f8e3b071d0dff49d9c/icons/linkedin/linkedin-original.svg"/>
-</a>
+### Olá 👋, sou o Luan! <a href="https://www.linkedin.com/in/luan-carlos/" target="_blank"><img align="center" alt="Luan Carlos | Linkedin" width="20px" src="https://raw.githubusercontent.com/devicons/devicon/40cd6bc89a299dc50ac289f8e3b071d0dff49d9c/icons/linkedin/linkedin-original.svg"/></a>
 
 <p>Estou desenvolvendo minhas habilidades nessas tecnologias.</p>
 
