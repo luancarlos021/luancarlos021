@@ -27,7 +27,7 @@
   </table> 
 </center>
 
-![Snake animation](https://github.com/luancarlos021/luancarlos021/blob/output/github-contribution-grid-snake.svg)
+<!--![Snake animation](https://github.com/luancarlos021/luancarlos021/blob/output/github-contribution-grid-snake.svg)-->
 <!--
 **luancarlos021/luancarlos021** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
