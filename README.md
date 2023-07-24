@@ -10,8 +10,8 @@
 <code><img height="35" src="https://github.com/luancarlos021/luancarlos021/assets/18739286/57de165a-dbfe-453a-9727-743360ed0d25"></code> <!--AWS-->
 <code><img height="35" src="https://github.com/luancarlos021/luancarlos021/assets/18739286/d952e129-ac38-4423-bcd6-73615d480c80"></code> <!--Terraform-->
 <code><img height="35" src="https://user-images.githubusercontent.com/18739286/143236238-af6b0d3a-c843-45b9-a539-e25eb52ffeb0.png"></code> <!--Python-->
-<code><img height="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<!-- <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code> <!--Node--> -->
+<code><img height="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code> <!--JS-->
+<!-- <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code> <!--Node-->
 <center>
   <table style="overflow:auto">
     <tr>
