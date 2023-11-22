@@ -21,7 +21,7 @@
       </td>
       <td>
           <img height="180em" align="left" 
-               src="https://github-readme-stats.vercel.app/api/top-langs/?username=luancarlos021&hide=hcl,css&langs_count=6&layout=compact&theme=tokyonight" />
+               src="https://github-readme-stats.vercel.app/api/top-langs/?username=luancarlos021&langs_count=6&layout=compact&theme=tokyonight" />
         </td>
     </tr>
   </table> 
