@@ -16,7 +16,8 @@
   <table style="overflow:auto">
     <tr>
       <td>
-          <img height="180em" align="right" 
+          <img height="180em" align="right"
+               src="https://github-readme-stats.vercel.app/api?username=luancarlos021&include_all_commits=true&count_private=true&hide=issues,contribs&show_icons=true&theme=tokyonight" />
       </td>
       <td>
           <img height="180em" align="left" 
